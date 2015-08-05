@@ -40,7 +40,7 @@ $(document).ready(function() {
 		}
 	});
 
-	$('.controls').hide().fadeIn(5000);
+	$('.controls').hide().fadeIn(9000);
 });
 
 

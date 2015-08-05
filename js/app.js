@@ -39,6 +39,8 @@ $(document).ready(function() {
 			$('.ryu-ready').show();
 		}
 	});
+
+	$('.controls').hide().fadeIn(5000);
 });
 
 

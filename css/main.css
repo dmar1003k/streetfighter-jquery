@@ -58,6 +58,19 @@ body {
 	left: 520px;
 	float: left;
 }
+.controls {
+	font-size: 20px;
+	color: red;
+	position: absolute;
+	top: 167px;
+	left: 620px;
+}
+
+.controls .click_ryu {
+	font-size: 40px;
+}
+
+
 
 
 
